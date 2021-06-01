@@ -1,4 +1,4 @@
-# Scripts POCs
+# Scripting Knowledge Share
 Here I store all my python scripts which I work as adhoc tasks during my work tenures
 
 ## script1: 
